@@ -1,6 +1,6 @@
 /*
 
-Cleaning the Data in Our SQL Queries
+Cleaning the Housing Data in Our SQL Queries
 
 */
 
